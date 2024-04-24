@@ -11,7 +11,7 @@
 ## Installation
 1. Clone the repository to your local machine:
    ```bash
-   git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/divy08r/extinguisher.git)
+   git clone https://github.com/yourusername/your-repo-name.git
    ```
 2. Change to the app directory:
    ```bash
