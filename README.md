@@ -8,6 +8,17 @@
 - Download processed videos
 - Email alert system
 
+## Mockups
+<div style="display: flex; flex-direction: row; overflow-x: scroll;">
+    <img src="./previews/preview_1.png" style="width: 50%; margin: 1%;">
+    <img src="./previews/preview_2.png" style="width: 50%; margin: 1%;">
+    <img src="./previews/preview_3.png" style="width: 50%; margin: 1%;">
+    <img src="./previews/preview_4.png" style="width: 50%; margin: 1%;">
+    <img src="./previews/preview_5.png" style="width: 50%; margin: 1%;">
+    <img src="./previews/preview_6.png" style="width: 50%; margin: 1%;">
+</div>
+
+
 ## Installation
 1. Clone the repository to your local machine:
    ```bash
