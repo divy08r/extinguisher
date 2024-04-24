@@ -1,4 +1,4 @@
-# Extinguisher
+# FireGuard
 
 **Extinguisher** is a Streamlit app that detects forest fires in video. It allows users to upload videos and detect the presence of fires. The app can also trigger email alerts to notify users of detected forest fires.
 
