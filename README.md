@@ -71,6 +71,7 @@ New emails can be added through this field.
      ```bash
      pip install -r requirements.txt
     ```
+**NOTE: For security reasons, the `credentials.json` file has not been uploaded to the repository. This file contains essential API information for Firebase Firestore. To ensure the safety of your project and sensitive data, it's imperative that users add their own `credentials.json` file before initiating the application. Please place your `credentials.json` file in the root directory of the project before starting the app.**
 ## Running the App
 1. Start the Streamlit app by running:
    ```bash
